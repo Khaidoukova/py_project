@@ -1,4 +1,6 @@
 from funcs import summ
+from funcs import subtraction
 
 n = summ(5, 2)
-print(n)
+
+m = subtraction(10, 4)
