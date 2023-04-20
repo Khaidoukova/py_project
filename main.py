@@ -1,6 +1,10 @@
 from funcs import summ
 from funcs import subtraction
+from funcs import itworks
 
-n = summ(5, 2)
+summ(5, 2)
 
-m = subtraction(10, 4)
+subtraction(10, 4)
+
+itworks()
+
